@@ -16,6 +16,8 @@ public class BotClean {
                 for(int j=0;j<size;j++){
                     grid[i][j] = str[j];
                 }
+
+                System.out.println("THUVA");
             }
           
 
